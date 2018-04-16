@@ -1,2 +1,0 @@
-# arrendadora
-Sistema Arrendamiento
